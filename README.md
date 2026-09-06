@@ -17,8 +17,8 @@ Assignment 1
             <h2>Question 4, text-to-image file</h2>
             <p></p>
     	 <h2>License</h2>	
-        <p>Copyright (c) Microsoft Corporation. All rights reserved.</p>
-	<p>Licensed under the MIT license.</p>	
+        <p>Copyright (c) madeUpFake Corporation. All rights reserved.</p>
+	<p>Licensed under the madeUpFake license.</p>	
     
   </main>
 </body>
