@@ -8,7 +8,7 @@ Assignment 1
 			o -> 111
 			l -> 108
             <p align="center">
-            <img alt="VS Code in action" src="C:\Users\srina\OneDrive\Pictures\Screenshots\Screenshot 2026-09-06 161301.png">
+            <img alt="output for the image" src="[(https://github.com/pranavchakkilam-gh/CS-240-assignment-1/blob/main/Screenshot%202026-09-06%20161301.png?raw=true)">
             </p>
             <h2>Question 2, Number-converter</h2>
             <p> </p>
