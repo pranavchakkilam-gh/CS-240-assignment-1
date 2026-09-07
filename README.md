@@ -24,13 +24,15 @@ Assignment 1
             <p align="center">
             <img alt="Landscape image" src="https://github.com/pranavchakkilam-gh/CS-240-assignment-1/blob/09b6c233b5854463a9fd628b73a3acb5bfcfa5e7/Screenshot%202026-09-06%20171326.png">
             </p>
-			< p> (Image is scaled up 10 times for better visibility)</p>
+			<p> (Image is scaled up 10 times for better visibility)</p>
 			<p>The output for the file looks like this</p>
 			 <p align="center">
-            <img alt="Landscape image" src="https://github.com/pranavchakkilam-gh/CS-240-assignment-1/blob/09b6c233b5854463a9fd628b73a3acb5bfcfa5e7/Screenshot%202026-09-06%20171326.png">
+            <img alt="Landscape image" src="https://github.com/pranavchakkilam-gh/CS-240-assignment-1/blob/7c13b14d17ebd815eabf042481420d08ec924919/Screenshot%202026-09-06%20171826.png">
             </p>
             <h2>Question 4, text-to-image file</h2>
-            <p></p>
+            <p>This program reads a text file containing pixel codes and uses those codes to create an image. First, it imports the Image class from the Pillow library. The convert() function translates each pixel code into an RGB color value. The letter R represents red, B represents black, and Y represents yellow. Any unrecognized code is converted to white.
+
+The program opens awesome_picture.txt and stores all its lines. It calculates the image’s height using the number of lines and its width using the number of pixel codes in the first line. It then creates a blank RGB image. The nested loops move through every row and column, convert each letter into a color, and place that color at the appropriate coordinate. Finally, the program saves the finished image as smiley2.png and displays it.</p>
     	 <h2>License</h2>	
         <p>Copyright (c) madeUpFake Corporation. All rights reserved.</p>
 	<p>Licensed under the madeUpFake license.</p>	
