@@ -21,8 +21,13 @@ Assignment 1
             <h2>Question 3, Image-to-text file</h2>
             <p>This program opens an image called Landscape.png using the Pillow library and converts it to RGB format. The convert() function takes the red, green, and blue values of each pixel and checks whether they match one of seven known colors. Each known color is represented by a letter, such as B for blue, G for green, and W for white. If a pixel does not match any known color, its full RGB value is returned. The two loops examine every pixel from left to right and top to bottom. The converted pixel values are then written into output.txt, with spaces between pixels and a new line after every image row. (Used AI to fix wording and grammar)</p>
 			<p>The Landscape.png file looks like this</p>
-            <p align="left">
-            <img alt="Landscape image" src="https://github.com/pranavchakkilam-gh/CS-240-assignment-1/blob/6f15b5fb52c8c77472d45626ec656dbce19aaa7c/Screenshot%202026-09-06%20170004.png">
+            <p align="center">
+            <img alt="Landscape image" src="https://github.com/pranavchakkilam-gh/CS-240-assignment-1/blob/09b6c233b5854463a9fd628b73a3acb5bfcfa5e7/Screenshot%202026-09-06%20171326.png">
+            </p>
+			< p> (Image is scaled up 10 times for better visibility)</p>
+			<p>The output for the file looks like this</p>
+			 <p align="center">
+            <img alt="Landscape image" src="https://github.com/pranavchakkilam-gh/CS-240-assignment-1/blob/09b6c233b5854463a9fd628b73a3acb5bfcfa5e7/Screenshot%202026-09-06%20171326.png">
             </p>
             <h2>Question 4, text-to-image file</h2>
             <p></p>
