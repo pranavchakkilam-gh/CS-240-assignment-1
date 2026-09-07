@@ -26,18 +26,22 @@ Assignment 1
             </p>
 			<p> (Image is scaled up 10 times for better visibility)</p>
 			<p>The output for the file looks like this</p>
-			 <p align="center">
-            <img alt="Landscape image" src="https://github.com/pranavchakkilam-gh/CS-240-assignment-1/blob/7c13b14d17ebd815eabf042481420d08ec924919/Screenshot%202026-09-06%20171826.png">
+			 <p align="left">
+            <img alt="Landscape image text" src="https://github.com/pranavchakkilam-gh/CS-240-assignment-1/blob/7c13b14d17ebd815eabf042481420d08ec924919/Screenshot%202026-09-06%20171826.png">
             </p>
             <h2>Question 4, text-to-image file</h2>
             <p>This program reads a text file containing pixel codes and uses those codes to create an image. First, it imports the Image class from the Pillow library. The convert() function translates each pixel code into an RGB color value. The letter R represents red, B represents black, and Y represents yellow. Any unrecognized code is converted to white.
 
 The program opens awesome_picture.txt and stores all its lines. It calculates the image’s height using the number of lines and its width using the number of pixel codes in the first line. It then creates a blank RGB image. The nested loops move through every row and column, convert each letter into a color, and place that color at the appropriate coordinate. Finally, the program saves the finished image as smiley2.png and displays it.</p>
-			<p>The input text file looks like this</p>
-			<p align="center">
-            <img alt="smilly" src="https://github.com/pranavchakkilam-gh/CS-240-assignment-1/blob/4122e78e0dbde2696c7b7d0a04c3002894addd9f/Screenshot%202026-09-06%20172357.png">
+			<p>The input text file looks like this. (Used AI to fix wording and grammar)</p>
+			<p align="left">
+            <img alt="smilly text file" src="https://github.com/pranavchakkilam-gh/CS-240-assignment-1/blob/4122e78e0dbde2696c7b7d0a04c3002894addd9f/Screenshot%202026-09-06%20172357.png">
             </p>
 			<p>The output image that gets generated looks like this</p>
+			<p align="center">
+            <img alt="smilly image" src="https://github.com/pranavchakkilam-gh/CS-240-assignment-1/blob/468f9f8e19ff2e1366fee95391b80b61034fed20/Screenshot%202026-09-06%20173011.png">
+            </p>
+			<p> (Image is scaled up 10 times for better visibility)</p>
     	 <h2>License</h2>	
         <p>Copyright (c) madeUpFake Corporation. All rights reserved.</p>
 	<p>Licensed under the madeUpFake license.</p>	
