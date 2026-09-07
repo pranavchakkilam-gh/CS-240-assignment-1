@@ -1,7 +1,7 @@
 # CS-240-assignment-1
 Assignment 1 
        <h1> The Repository</h1>
-	   <p>This repository consists of 4 assignments that consist of ASCII-to-decimal converter, a number converter supporting binary, decimal, octal, and hexadecimal, an image-to-text converter, and finally a text-to-image converter coded in python.</p>
+	   <p>This repository consists of 4 assignments that consist of ASCII-to-decimal converter, a number converter supporting binary, decimal, octal, and hexadecimal, an image-to-text converter, and finally a text-to-image converter coded in Python.</p>
             <h2>Question 1, ASCII-to-decimal</h2>
             <p>This program converts the word "Cool" into decimal ASCII values. The string "Cool" is saved in a variable s and passed to the ord() function, which loops through the characters in the string. The ord() function converts each character into an ASCII decimal value. In this example, for "Cool". </p>
 			C -> 67
@@ -33,6 +33,8 @@ Assignment 1
             <p>This program reads a text file containing pixel codes and uses those codes to create an image. First, it imports the Image class from the Pillow library. The convert() function translates each pixel code into an RGB color value. The letter R represents red, B represents black, and Y represents yellow. Any unrecognized code is converted to white.
 
 The program opens awesome_picture.txt and stores all its lines. It calculates the image’s height using the number of lines and its width using the number of pixel codes in the first line. It then creates a blank RGB image. The nested loops move through every row and column, convert each letter into a color, and place that color at the appropriate coordinate. Finally, the program saves the finished image as smiley2.png and displays it.</p>
+            <img alt="Landscape image" src="https://github.com/pranavchakkilam-gh/CS-240-assignment-1/blob/7c13b14d17ebd815eabf042481420d08ec924919/Screenshot%202026-09-06%20171826.png">
+            </p>
     	 <h2>License</h2>	
         <p>Copyright (c) madeUpFake Corporation. All rights reserved.</p>
 	<p>Licensed under the madeUpFake license.</p>	
